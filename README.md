@@ -52,13 +52,30 @@ Pesos para el ensamble IDRiD:
 [fold4](https://drive.google.com/file/d/1J9hCBIyMqueW20qwFPDxUA6Ik3kL1A4c/view?usp=sharing)
 [fold5](https://drive.google.com/file/d/13QrPDQZr_ir1ILwm3rZn6rhquKmZjyEP/view?usp=sharing)
 
+## Ejemplo de lesiones en fotografía de fondo del ojo
+
+![Eje](/Imágenes/eje.png)
+
 ## Marco de trabajo
+
+Aprendizaje Supervisado
 
 ![frame](/Imágenes/frame1.png)
 
+Metodología
+
 ![frame2](/Imágenes/frame2.png)
 
+Redes Neuronales Convolucionales
+
 ![frame3](/Imágenes/frame3.png)
+
+### Convolución
+
+![conv](/Imágenes/conv.png)
+### Max-pooling
+
+![max](/Imágenes/max.png)
 
 # Antecedentes
 
