@@ -54,10 +54,10 @@ Pesos para el ensamble IDRiD:
 
 # Metodología
 
-![Metodología](/Imágenes/Captura de Pantalla 2020-10-07 a la(s) 19.29.47.png)
+![Metodología](/Imágenes/met.png)
 
 
-![Metodología2](/Imágenes/Captura de Pantalla 2020-11-10 a la(s) 14.57.15.png)
+![Metodología2](/Imágenes/met1.png)
 
 
 # Resultados
