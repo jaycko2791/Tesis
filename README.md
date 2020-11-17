@@ -52,14 +52,47 @@ Pesos para el ensamble IDRiD:
 [fold4](https://drive.google.com/file/d/1J9hCBIyMqueW20qwFPDxUA6Ik3kL1A4c/view?usp=sharing)
 [fold5](https://drive.google.com/file/d/13QrPDQZr_ir1ILwm3rZn6rhquKmZjyEP/view?usp=sharing)
 
+## Marco de trabajo
+
+![frame](/Imágenes/frame1.png)
+
+![frame2](/Imágenes/frame2.png)
+
+![frame3](/Imágenes/frame3.png)
+
+# Antecedentes
+
+![Antecedentes](/Imágenes/ant.png)
+
 # Metodología
 
+Resumen 
 ![Metodología](/Imágenes/met.png)
 
-
+Diagrama con técnicas utilizadas durante cada etapa de la metodologia
 ![Metodología2](/Imágenes/met1.png)
 
 
+
+
 # Resultados
-![Hola XD](/Imágenes/ap1.png)
+
+## Resumen de Experimentos
+
+![Experimento1](/Imágenes/resumen.png)
+
+
+## Tablas
+### Experimento 1
+![Experimento1](/Imágenes/exp1.png)
+
+### Experimento 2
+![Experimento2](/Imágenes/exp2.png)
+
+### Experimento 3
+![Experimento3](/Imágenes/exp3.png)
+
+### Final
+
+![Experimento3](/Imágenes/final.png)
 
