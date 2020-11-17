@@ -52,5 +52,5 @@ Pesos para el ensamble IDRiD:
 [fold4](https://drive.google.com/file/d/1J9hCBIyMqueW20qwFPDxUA6Ik3kL1A4c/view?usp=sharing)
 [fold5](https://drive.google.com/file/d/13QrPDQZr_ir1ILwm3rZn6rhquKmZjyEP/view?usp=sharing)
 
-
+![Texto alternativo](/Imágenes/ap1.png)
 
