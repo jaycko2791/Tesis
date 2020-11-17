@@ -56,6 +56,13 @@ Pesos para el ensamble IDRiD:
 
 ![Eje](/Imágenes/eje.png)
 
+## Escala internacional de grados de severidad
+
+![Escala](/Imágenes/esc.png)
+
+### Camara no midriática para tomar fotos
+![Escala](/Imágenes/esc.png)
+
 ## Marco de trabajo
 
 Aprendizaje Supervisado
