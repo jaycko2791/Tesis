@@ -52,5 +52,14 @@ Pesos para el ensamble IDRiD:
 [fold4](https://drive.google.com/file/d/1J9hCBIyMqueW20qwFPDxUA6Ik3kL1A4c/view?usp=sharing)
 [fold5](https://drive.google.com/file/d/13QrPDQZr_ir1ILwm3rZn6rhquKmZjyEP/view?usp=sharing)
 
-![Texto alternativo](/Imágenes/ap1.png)
+# Metodología
+
+![Metodología](/Imágenes/Captura de Pantalla 2020-10-07 a la(s) 19.29.47.png)
+
+
+![Metodología2](/Imágenes/Captura de Pantalla 2020-11-10 a la(s) 14.57.15.png)
+
+
+# Resultados
+![Hola XD](/Imágenes/ap1.png)
 
