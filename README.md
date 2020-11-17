@@ -10,7 +10,7 @@ Experimentos y Resultados de la Tesis
 
 [Pesos para TL2](https://drive.google.com/drive/folders/1-Jy5nGp_-bejp2ececgixJjG19ITMAOG?usp=sharing) 
 
-Divisiones para validación cruzada archivo cdv:
+Divisiones para validación cruzada archivo csv:
 APTOS : 
 [Train/test](https://drive.google.com/file/d/1--xEffhn7lLHnCmeqcIQPd928LwEMX9v/view?usp=sharing)
 [Folds](https://drive.google.com/file/d/1-0D04k3plFfZ89ILrrub6mtHUv6Brnl6/view?usp=sharing)
