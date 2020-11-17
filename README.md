@@ -61,7 +61,7 @@ Pesos para el ensamble IDRiD:
 ![Escala](/Imágenes/esc.png)
 
 ### Camara no midriática para tomar fotos
-![Escala](/Imágenes/esc.png)
+![Escala](/Imágenes/cam.png)
 
 ## Marco de trabajo
 
@@ -104,6 +104,9 @@ Diagrama con técnicas utilizadas durante cada etapa de la metodologia
 ## Resumen de Experimentos
 
 ![Experimento1](/Imágenes/resumen.png)
+
+### Cálculo de resultados
+![calc](/Imágenes/calc.png)
 
 
 ## Tablas
