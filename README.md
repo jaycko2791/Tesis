@@ -187,9 +187,25 @@ DenseNet121 sin filtro
 
 ![graf22](/Imágenes/exp2perap2.png)
 
-![graf23](/Imágenes/mcexp3ap2.png)
+![graf23](/Imágenes/mcexp2ap2.png)
 
-![graf24](/Imágenes/mc2exp3ap2.png)
+![graf24](/Imágenes/mc2exp2ap2.png)
+
+# Messidor
+
+DenseNet121 con filtro
+
+![graf25](/Imágenes/exp2kapmes.png)
+
+![graf26](/Imágenes/exp2exames.png)
+
+![graf27](/Imágenes/exp2permes.png)
+
+![graf28](/Imágenes/exp2mcmes.png)
+
+![graf29](/Imágenes/exp2mc2mes.png)
+
+# IDRiD
 
 
 
