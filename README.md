@@ -127,7 +127,7 @@ Diagrama con técnicas utilizadas durante cada etapa de la metodologia
 
 ##### Matriz de confusión
 
-![graf4](/Imágenes/mcexp1.png)
+![graf4](/Imágenes/mc1exp1.png)
 
 ![graf5](/Imágenes/mc2exp1.png)
 
