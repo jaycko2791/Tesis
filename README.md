@@ -167,6 +167,8 @@ Diagrama con técnicas utilizadas durante cada etapa de la metodologia
 
 #### APTOS
 
+DenseNet121 con filtro
+
 ![graf16](/Imágenes/exp2kapap.png)
 
 ![graf17](/Imágenes/exp1exaap.png)
@@ -176,6 +178,19 @@ Diagrama con técnicas utilizadas durante cada etapa de la metodologia
 ![graf20](/Imágenes/mcexp2ap.png)
 
 ![graf19](/Imágenes/mc2exp2ap.png)
+
+DenseNet121 sin filtro
+
+![graf20](/Imágenes/exp2kapap2.png)
+
+![graf21](/Imágenes/exp2exap2.png)
+
+![graf22](/Imágenes/exp2perap2.png)
+
+![graf23](/Imágenes/mcexp3ap2.png)
+
+![graf24](/Imágenes/mc2exp3ap2.png)
+
 
 
 ### Experimento 3
