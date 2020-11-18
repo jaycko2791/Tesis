@@ -114,6 +114,35 @@ Diagrama con técnicas utilizadas durante cada etapa de la metodologia
 ### Cálculo de resultados
 ![calc](/Imágenes/calc.png)
 
+##Gráficas
+
+### Experimento 1
+
+#### APTOS
+![graf2](/Imágenes/kapexp1.png)
+
+![graf1](/Imágenes/exaexp1.png)
+
+![graf3](/Imágenes/exaexp1.png)
+
+##### Matriz de confusión
+
+![graf4](/Imágenes/mcexp1.png)
+
+![graf5](/Imágenes/mc2exp1.png)
+
+#### Messidor
+
+#### IDRiD
+
+#### EyePacs
+
+
+
+### Experimento 2
+
+### Experimento 3
+
 
 ## Tablas
 ### Experimento 1
