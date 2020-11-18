@@ -133,19 +133,31 @@ Diagrama con técnicas utilizadas durante cada etapa de la metodologia
 
 #### Messidor
 
-![graf2](/Imágenes/kapexp1mesi.png)
+![graf6](/Imágenes/kapexp1mesi.png)
 
-![graf1](/Imágenes/exaexp1mesi.png)
+![graf7](/Imágenes/exaexp1mesi.png)
 
-![graf3](/Imágenes/perexp1mesi.png)
+![graf8](/Imágenes/perexp1mesi.png)
 
 ##### Matriz de confusión
 
-![graf4](/Imágenes/mcexp1mesi.png)
+![graf9](/Imágenes/mcexp1mesi.png)
 
-![graf5](/Imágenes/mc2exp1mesi.png)
+![graf10](/Imágenes/mc2exp1mesi.png)
 
 #### IDRiD
+
+![graf11](/Imágenes/kapexp1idrid.png)
+
+![graf12](/Imágenes/exaexp1idrid.png)
+
+![graf13](/Imágenes/perexp1idrid.png)
+
+##### Matriz de confusión
+
+![graf14](/Imágenes/mcexp1idrid.png)
+
+![graf15](/Imágenes/mc2exp1idrid.png)
 
 #### EyePacs
 
