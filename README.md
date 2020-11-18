@@ -121,9 +121,9 @@ Diagrama con técnicas utilizadas durante cada etapa de la metodologia
 #### APTOS
 ![graf2](/Imágenes/kapexp1.png)
 
-![graf1](/Imágenes/exaexp1.png)
+![graf1](/Imágenes/excexp1.png)
 
-![graf3](/Imágenes/exaexp1.png)
+![graf3](/Imágenes/perexp1.png)
 
 ##### Matriz de confusión
 
