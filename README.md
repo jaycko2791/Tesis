@@ -165,6 +165,19 @@ Diagrama con técnicas utilizadas durante cada etapa de la metodologia
 
 ### Experimento 2
 
+#### APTOS
+
+![graf16](/Imágenes/exp2kapap.png)
+
+![graf17](/Imágenes/exp1exaap.png)
+
+![graf18](/Imágenes/exp2perap.png)
+
+![graf20](/Imágenes/mcexp2ap.png)
+
+![graf19](/Imágenes/mc2exp2ap.png)
+
+
 ### Experimento 3
 
 
