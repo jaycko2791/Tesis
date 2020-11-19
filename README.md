@@ -161,7 +161,13 @@ Diagrama con técnicas utilizadas durante cada etapa de la metodologia
 
 #### EyePacs
 
+![graf30](/Imágenes/exp1eyeexa.png)
 
+![graf31](/Imágenes/exp1eyeper.png)
+
+![graf32](/Imágenes/mcexp1eye.png)
+
+![graf32](/Imágenes/mc2exp1eye.png)
 
 ### Experimento 2
 
@@ -191,7 +197,7 @@ DenseNet121 sin filtro
 
 ![graf24](/Imágenes/mc2exp2ap2.png)
 
-# Messidor
+#### Messidor
 
 DenseNet121 con filtro
 
@@ -205,7 +211,7 @@ DenseNet121 con filtro
 
 ![graf29](/Imágenes/exp2mc2mes.png)
 
-# IDRiD
+#### IDRiD
 
 
 
