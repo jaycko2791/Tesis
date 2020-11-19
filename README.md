@@ -243,9 +243,6 @@ DenseNet121 sin filtro
 
 DenseNet121 con filtro 
 
-
-### Experimento 3
-
 ![graf38](/Imágenes/exp2kapidr2.png)
 
 ![graf39](/Imágenes/exp2exaidr2.png)
@@ -255,6 +252,44 @@ DenseNet121 con filtro
 ![graf41](/Imágenes/exp2mcidr2.png)
 
 ![graf42](/Imágenes/exp2mc2idr2.png)
+
+#### EyePACS
+
+
+![graf43](/Imágenes/exp3kapaptf1.png)
+
+![graf44](/Imágenes/exp3peraptf1.png)
+
+![graf45](/Imágenes/exp3exaptf1.png)
+
+![graf46](/Imágenes/exp3mcaptf1.png)
+
+![graf47](/Imágenes/exp3mc2aptf1.png)
+
+
+
+### Experimento 3
+
+####APTOS
+
+fold1
+
+
+
+Ensamble
+
+####Messidor
+
+fold1
+
+Ensamble
+
+####IDRiD
+
+fold1
+
+Ensamble
+
 
 
 ## Tablas
