@@ -230,19 +230,31 @@ DenseNet121 sin filtro
 
 DenseNet121 sin filtro
 
-![graf33](/Imágenes/exp2kapidr.png)
+![graf38](/Imágenes/exp2kapidr.png)
 
-![graf34](/Imágenes/exp2exaidr.png)
+![graf39](/Imágenes/exp2exaidr.png)
 
-![graf35](/Imágenes/exp2peridr.png)
+![graf40](/Imágenes/exp2peridr.png)
 
-![graf36](/Imágenes/exp2mcidr.png)
+![graf41](/Imágenes/exp2mcidr.png)
 
-![graf37](/Imágenes/exp2mc2idr.png)
+![graf42](/Imágenes/exp2mc2idr.png)
 
+
+DenseNet121 con filtro 
 
 
 ### Experimento 3
+
+![graf38](/Imágenes/exp2kapidr2.png)
+
+![graf39](/Imágenes/exp2exaidr2.png)
+
+![graf40](/Imágenes/exp2peridr2.png)
+
+![graf41](/Imágenes/exp2mcidr2.png)
+
+![graf42](/Imágenes/exp2mc2idr2.png)
 
 
 ## Tablas
