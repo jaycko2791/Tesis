@@ -228,6 +228,18 @@ DenseNet121 sin filtro
 
 #### IDRiD
 
+DenseNet121 sin filtro
+
+![graf33](/Imágenes/exp2kapmes2.png)
+
+![graf34](/Imágenes/exp2exames2.png)
+
+![graf35](/Imágenes/exp2permes2.png)
+
+![graf36](/Imágenes/exp2mcmes2.png)
+
+![graf37](/Imágenes/exp2mc2mes2.png)
+
 
 
 ### Experimento 3
