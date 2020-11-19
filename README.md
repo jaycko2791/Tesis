@@ -256,15 +256,14 @@ DenseNet121 con filtro
 #### EyePACS
 
 
-![graf43](/Imágenes/exp3kapaptf1.png)
+![graf43](/Imágenes/exp2pedeye.png)
 
-![graf44](/Imágenes/exp3peraptf1.png)
+![graf44](/Imágenes/exp2exaeye.png)
 
-![graf45](/Imágenes/exp3exaptf1.png)
+![graf45](/Imágenes/exp2mceye.png)
 
-![graf46](/Imágenes/exp3mcaptf1.png)
+![graf46](/Imágenes/exp2mc2eye.png)
 
-![graf47](/Imágenes/exp3mc2aptf1.png)
 
 
 
@@ -274,6 +273,15 @@ DenseNet121 con filtro
 
 fold1
 
+![graf48](/Imágenes/exp3kapaptf1.png)
+
+![graf49](/Imágenes/exp3peraptf1.png)
+
+![graf50](/Imágenes/exp3exaptf1.png)
+
+![graf51](/Imágenes/exp3mcaptf1.png)
+
+![graf52](/Imágenes/exp3mc2aptf1.png)
 
 
 Ensamble
