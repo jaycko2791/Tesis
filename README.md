@@ -230,15 +230,15 @@ DenseNet121 sin filtro
 
 DenseNet121 sin filtro
 
-![graf33](/Imágenes/exp2kapmes2.png)
+![graf33](/Imágenes/exp2kapidr.png)
 
-![graf34](/Imágenes/exp2exames2.png)
+![graf34](/Imágenes/exp2exaidr.png)
 
-![graf35](/Imágenes/exp2permes2.png)
+![graf35](/Imágenes/exp2peridr.png)
 
-![graf36](/Imágenes/exp2mcmes2.png)
+![graf36](/Imágenes/exp2mcidr.png)
 
-![graf37](/Imágenes/exp2mc2mes2.png)
+![graf37](/Imágenes/exp2mc2idr.png)
 
 
 
