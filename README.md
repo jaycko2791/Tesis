@@ -322,6 +322,19 @@ Ensamble
 
 Ensamble
 
+![graf65](/Imágenes/exp3idrid1.png)
+
+![graf66](/Imágenes/exp3idrid2.png)
+
+![graf67](/Imágenes/exp3idrid3.png)
+
+![graf68](/Imágenes/exp3idrid4.png)
+
+![graf69](/Imágenes/exp3idrid5.png)
+
+![graf70](/Imágenes/exp3idrid6.png)
+
+
 
 
 ## Tablas
