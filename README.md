@@ -299,15 +299,13 @@ Ensamble TTA
 
 ![graf52](/Imágenes/ensapt5.png)
 
-####Messidor
+#### Messidor
 
-fold1
 
 Ensamble
 
-####IDRiD
+#### IDRiD
 
-fold1
 
 Ensamble
 
