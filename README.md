@@ -284,28 +284,41 @@ fold1
 
 Ensamble
 
-![graf52](/Imágenes/ensapt1.png)
+![graf53](/Imágenes/ensapt1.png)
 
-![graf52](/Imágenes/ensapt2.png)
+![graf54](/Imágenes/ensapt2.png)
 
 Ensamble trim
 
-![graf52](/Imágenes/ensapt3.png)
+![graf55](/Imágenes/ensapt3.png)
 
 
 Ensamble TTA
 
-![graf52](/Imágenes/ensapt4.png)
+![graf56](/Imágenes/ensapt4.png)
 
-![graf52](/Imágenes/ensapt5.png)
+![graf57](/Imágenes/ensapt5.png)
 
 #### Messidor
 
-
 Ensamble
 
-#### IDRiD
+![graf58](/Imágenes/exp3messi1.png)
 
+![graf59](/Imágenes/exp3messi2.png)
+
+![graf60](/Imágenes/exp3messi3.png)
+
+![graf61](/Imágenes/exp3messi4.png)
+
+![graf62](/Imágenes/exp4messi5.png)
+
+![graf63](/Imágenes/exp4messi6.png)
+
+![graf64](/Imágenes/exp4messi7.png)
+
+
+#### IDRiD
 
 Ensamble
 
