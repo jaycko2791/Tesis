@@ -265,8 +265,6 @@ DenseNet121 con filtro
 ![graf46](/Imágenes/exp2mc2eye.png)
 
 
-
-
 ### Experimento 3
 
 ####APTOS
@@ -285,6 +283,21 @@ fold1
 
 
 Ensamble
+
+![graf52](/Imágenes/ensapt1.png)
+
+![graf52](/Imágenes/ensapt2.png)
+
+Ensamble trim
+
+![graf52](/Imágenes/ensapt3.png)
+
+
+Ensamble TTA
+
+![graf52](/Imágenes/ensapt4.png)
+
+![graf52](/Imágenes/ensapt5.png)
 
 ####Messidor
 
